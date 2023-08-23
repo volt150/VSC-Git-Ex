@@ -20,4 +20,6 @@ Add a License
     GPL license allows other to make modification to your code and use it for commericial purposes;
 This line is to practice a new commit
 
-Pretend New Feature
+Pretend New Feature 1
+
+Pretend New Feature 2
